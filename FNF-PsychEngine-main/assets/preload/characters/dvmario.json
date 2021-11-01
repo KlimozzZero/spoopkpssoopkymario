@@ -1,0 +1,126 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				-279
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "PS Mario idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				52,
+				-247
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "PS Mario left pose",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				-279
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "PS Mario right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-14,
+				-288
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "PS Mario down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				13,
+				-231
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "PS Mario up",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-18,
+				-274
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "PS Mario up",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-12,
+				-279
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "PS Mario idle",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				52,
+				-247
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "PS Mario left pose",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "mario/DVMario",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "dmario",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		60,
+		100
+	],
+	"camera_position": [
+		-150,
+		350
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

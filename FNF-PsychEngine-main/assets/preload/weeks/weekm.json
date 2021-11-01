@@ -1,0 +1,30 @@
+{
+	"storyName": "power star",
+	"hideFreeplay": false,
+	"weekBackground": "philly",
+	"weekBefore": "powerstar",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dmario",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"mario",
+			"dmario",
+			[
+				215,
+				0,
+				55
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "weekm"
+}

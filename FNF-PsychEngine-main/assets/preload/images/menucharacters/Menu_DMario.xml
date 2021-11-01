@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_DMario.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="PS Mario idle BLACK LINE0000" x="0" y="0" width="386" height="479"/>
+	<SubTexture name="PS Mario idle BLACK LINE0001" x="0" y="0" width="386" height="479"/>
+	<SubTexture name="PS Mario idle BLACK LINE0002" x="386" y="0" width="386" height="479"/>
+	<SubTexture name="PS Mario idle BLACK LINE0003" x="386" y="0" width="386" height="479"/>
+	<SubTexture name="PS Mario idle BLACK LINE0004" x="0" y="479" width="386" height="479"/>
+	<SubTexture name="PS Mario idle BLACK LINE0005" x="0" y="479" width="386" height="479"/>
+	<SubTexture name="PS Mario idle BLACK LINE0006" x="386" y="479" width="386" height="479"/>
+	<SubTexture name="PS Mario idle BLACK LINE0007" x="386" y="479" width="386" height="479"/>
+	<SubTexture name="PS Mario idle BLACK LINE0008" x="386" y="479" width="386" height="479"/>
+	<SubTexture name="PS Mario idle BLACK LINE0009" x="386" y="479" width="386" height="479"/>
+	<SubTexture name="PS Mario idle BLACK LINE0010" x="386" y="479" width="386" height="479"/>
+	<SubTexture name="PS Mario idle BLACK LINE0011" x="386" y="479" width="386" height="479"/>
+	<SubTexture name="PS Mario idle BLACK LINE0012" x="386" y="479" width="386" height="479"/>
+	<SubTexture name="PS Mario idle BLACK LINE0013" x="386" y="479" width="386" height="479"/>
+</TextureAtlas>
